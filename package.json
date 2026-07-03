@@ -5,5 +5,8 @@
   },
   "dependencies": {
     "@azure/functions": "^4.16.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.0"
   }
 }
